@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Surya</h1>
 
 <p align="center">
-  Embedded software developer focused on RTOS-based applications, device drivers, BLE, wireless communication, and wireless sensor network systems.
+  Embedded software developer focused on RTOS-based applications, device drivers, BLE,IoT, and Wireless Sensor Networks.
 </p>
 
 <p align="center">
@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/nRF52-00A9CE?style=for-the-badge&logo=nordicsemiconductor&logoColor=white" alt="nRF52" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi%20Pico-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi Pico" />
   <img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white" alt="RISC-V" />
+  <img src="https://img.shields.io/badge/ARM%20Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM Cortex-M" />
 </p>
 
 ## About Me
