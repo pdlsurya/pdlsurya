@@ -38,7 +38,7 @@
       <p><strong>Focus:</strong> RTOS internals, task scheduling, kernel objects, synchronization primitives, inter-task communication</p>
     </td>
     <td valign="top" width="50%">
-      <h3><a href="https://github.com/pdlsurya/esp32-rv-bare-metal-sdk">esp32-rv-bare-metal-sdk</a></h3>
+      <h3><a href="https://github.com/pdlsurya/esp32-riscv-bare-metal-sdk">esp32-riscv-bare-metal-sdk</a></h3>
       <p>A bare-metal SDK for ESP32 RISC-V targets created to better understand low-level platform support, startup flow, and driver integration.</p>
       <p><strong>Focus:</strong> bring-up, platform code, low-level firmware</p>
     </td>
